@@ -1,0 +1,32 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background 
+{
+background-image: url(bg1.jpg);
+background-position: center;
+background-size: cover;
+}
+
+#myCanvas {
+	border-width:10px;
+	background-color: white;
+	border-style: ridge;
+
+}
+
+button{
+	background-color: #4CAf50;
+	border:none;
+	color:white;
+	padding:10px;
+	font-size:16;
+}
+
+input{
+	margin-right: 20px;
+}
+
